@@ -1,5 +1,5 @@
 ---
-abstract: |
+Abstract: |
   As the novel coronavirus pandemic remains strong, this project intends
   to mitigate the contamination using certain devices that regulate the
   distance between bystanders, mainly in crowded and closed spaces. The
