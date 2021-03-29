@@ -1,24 +1,7 @@
 ---
-Abstract: |
-  As the novel coronavirus pandemic remains strong, this project intends
-  to mitigate the contamination using certain devices that regulate the
-  distance between bystanders, mainly in crowded and closed spaces. The
-  first variation consists of a stationary device that controls the
-  distance and pace of a queue. The other one is a wearable device that
-  helps the user to keep his distance from others. The simulations were
-  made on TinkerCad, and they've shown a high level of precision.
-  
----
+Resumo |
+ 
+Com o avanço da pandemia criou-se a demanda por ideias que possibilitassem a continuidade das atividades humanas com segurança. Dessa forma, neste projeto é proposto dispositivos distanciadores sociais que podem auxiliar a população a executar suas atividades cotidianas, seja em filas ou outros ambientes aglomerativos. É desenvolvido um sinalizador de aglomerações fixo para locais atratores de pessoas e um equipamento móvel vestível para detecção de outros indivíduos. Os protótipos foram testados com simulações via Tinkercad, além de alguns testes físicos simples. Chequem o artigo introdutório!
 
----
-Abstract: |
-  As the novel coronavirus pandemic remains strong, this project intends
-  to mitigate the contamination using certain devices that regulate the
-  distance between bystanders, mainly in crowded and closed spaces. The
-  first variation consists of a stationary device that controls the
-  distance and pace of a queue. The other one is a wearable device that
-  helps the user to keep his distance from others. The simulations were
-  made on TinkerCad, and they've shown a high level of precision.
-  
 ---
 
