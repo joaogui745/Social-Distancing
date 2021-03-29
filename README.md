@@ -7,7 +7,5 @@ Abstract: |
   distance and pace of a queue. The other one is a wearable device that
   helps the user to keep his distance from others. The simulations were
   made on TinkerCad, and they've shown a high level of precision
-
-  Ultrasonic sensor; wearable technology; social distancing;
-  coronavirus; pandemic.
+  
 ---
