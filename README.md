@@ -8,5 +8,5 @@ Resumo: |
   desenvolvido um sinalizador de aglomerações fixo para locais atratores
   de pessoas e um equipamento móvel vestível para detecção de outros
   indivíduos. Os protótipos foram testados com simulações via Tinkercad,
-  além de alguns testes físicos simples. Chequem o artigo introdutório!
+  além de alguns testes físicos simples.
 ---
