@@ -1,3 +1,4 @@
+# Social Distancing Devices
 This project intended to mitigate the viral contamination in the context of the coronavirus pandemic by  using certain devices that regulate the distance between bystanders,
 mainly in crowded and closed spaces. The first variation
 consists of a stationary device that controls the distance
@@ -9,4 +10,4 @@ high level of precision. There's a comprehensive article reporting the developme
 
 
 
-![Captura de tela 2024-01-17 182819](https://github.com/pressauro/Social-Distancing/assets/76461118/46388ba4-606e-46ce-9e5f-87a5b6ee2231)
+![esquematico_projeto](https://github.com/pressauro/Social-Distancing/assets/76461118/46388ba4-606e-46ce-9e5f-87a5b6ee2231)
