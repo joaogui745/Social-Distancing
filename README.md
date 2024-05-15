@@ -1,5 +1,5 @@
 # Social Distancing Devices
-This project aims to reduce viral spread during the COVID pandemic by using distancing devices
+This project aims to reduce viral spread during pandemics by using distancing devices
 mainly in crowded and closed spaces. The first variation
 consists of a stationary device that controls the distance
 and pace of a queue. The other one is a wearable device
