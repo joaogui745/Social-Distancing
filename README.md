@@ -1,6 +1,6 @@
-# Social Distancing Devices
-This project aims to reduce viral spread during pandemics by using distancing devices
-mainly in crowded and closed spaces. The first variation
+### Social Distancing Devices
+This project seeks to mitigate viral transmission during pandemics by using distancing devices
+in crowded and closed spaces. The first variation
 consists of a stationary device that controls the distance
 and pace of a queue. The other one is a wearable device
 that helps the user to keep their distance from others. The devices were prototyped using an arduino microcontroller and the TinkerCad
